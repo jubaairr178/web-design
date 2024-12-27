@@ -1,0 +1,15 @@
+@Media(max-width:370px){
+
+    .topber-content{
+        background:blue;
+        flex-direction: column;
+        text-align: center;
+        height: 100%;
+        width: 100%;
+    }
+    .topbar-content1{
+        flex-direction: column;
+        text-align: center;
+        width: 100%;
+    }
+}
